@@ -1,2 +1,2 @@
-# argocd-demo
-argpcd-demo
+# kargo-demo
+testing kargo
